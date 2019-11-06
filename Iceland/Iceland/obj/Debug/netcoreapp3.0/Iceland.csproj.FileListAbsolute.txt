@@ -1,0 +1,11 @@
+D:\Source\Iceland\Iceland\obj\Debug\netcoreapp3.0\Iceland.AssemblyInfoInputs.cache
+D:\Source\Iceland\Iceland\obj\Debug\netcoreapp3.0\Iceland.AssemblyInfo.cs
+D:\Source\Iceland\Iceland\bin\Debug\netcoreapp3.0\Iceland.exe
+D:\Source\Iceland\Iceland\bin\Debug\netcoreapp3.0\Iceland.deps.json
+D:\Source\Iceland\Iceland\bin\Debug\netcoreapp3.0\Iceland.runtimeconfig.json
+D:\Source\Iceland\Iceland\bin\Debug\netcoreapp3.0\Iceland.runtimeconfig.dev.json
+D:\Source\Iceland\Iceland\bin\Debug\netcoreapp3.0\Iceland.dll
+D:\Source\Iceland\Iceland\bin\Debug\netcoreapp3.0\Iceland.pdb
+D:\Source\Iceland\Iceland\obj\Debug\netcoreapp3.0\Iceland.dll
+D:\Source\Iceland\Iceland\obj\Debug\netcoreapp3.0\Iceland.pdb
+D:\Source\Iceland\Iceland\bin\Debug\netcoreapp3.0\Data\products.json
