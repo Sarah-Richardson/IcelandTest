@@ -11,7 +11,7 @@
             {
                 product.Quality += 2;
             }
-            else if ((product.SellIn < 5) && (product.SellIn >= 0)) // 5 days or day of concert quality increases by 3
+            else if ((product.SellIn <= 5) && (product.SellIn >= 0)) // 5 days or day of concert quality increases by 3
             {
                 product.Quality += 3;
             }
